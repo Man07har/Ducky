@@ -1,0 +1,4 @@
+.custom-input::selection {
+    background-color: #ffcc00; /* Change to your desired cursor color */
+    color: #333; /* Change to your desired text color */
+  }
